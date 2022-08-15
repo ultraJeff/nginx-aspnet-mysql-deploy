@@ -1,0 +1,8 @@
+version: "3.5"
+services:
+  awesome-compose:
+    container_name: awesome-compose
+    image: quay.io/jefrankl/awesome-compose:latest
+    ports:
+      - target: 8080
+        published: 8080

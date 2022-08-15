@@ -1,0 +1,5 @@
+resources:
+  - awesome-compose-deployment.yaml
+  - awesome-compose-latest-imagestream.yaml
+  - awesome-compose-service.yaml
+  - quay-io-imagepullsecret-secret.yaml

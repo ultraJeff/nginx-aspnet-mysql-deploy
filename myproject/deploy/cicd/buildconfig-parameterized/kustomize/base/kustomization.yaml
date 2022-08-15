@@ -1,0 +1,4 @@
+resources:
+  - myproject-clone-build-push-awesome-compose-buildconfig.yaml
+  - myproject-git-repo-generic-secret.yaml
+  - myproject-web-hook-awesome-compose-secret.yaml
